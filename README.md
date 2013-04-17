@@ -1,14 +1,18 @@
 #Paw HTTP Client
 
-This is the Public Issue Tracker for Paw. If you're using Paw and have found some bugs, please feel free to email me, or create an Issue here. I'll always appreciate your help. Also, please never hesitate to create an issue for a tiny bug, a UI problem, a keyboard shortcut that you'd love to have, or a feature you'd like to see in the next release.
+This is the Public Issue Tracker for Paw. If you're using Paw and have found some bugs, please feel free to email me, or [create an Issue here](https://github.com/LuckyMarmot/Paw/issues). I'll always appreciate your help. Also, please never hesitate to create an issue for a tiny bug, a UI problem, a keyboard shortcut that you'd love to have, or a feature you'd like to see in the next release.
 
 Every detail count!
 
 The next version of Paw will use a new text / completion mechanism, so please don't waste your time with some bugs related to the text views/fields.
 
+I'm actually not using this repo to track the issues I create myself. But I'll be constantly checking your issues here and giving some updates. I'll close an issue when the next version of Paw containing the fix/new feature will be live.
+
 Thanks a lot for enjoying Paw and for helping!
 
-[Micha](http://micha.mazaheri.me)
+[Micha Mazaheri](http://micha.mazaheri.me)
+
+![Paw HTTP Client](http://a1438.phobos.apple.com/us/r1000/104/Purple/v4/f3/e5/3a/f3e53a39-a92e-a976-43fa-c4d2e96da48c/mzl.lwllkvvs.png?downloadKey=1366793232_e36a3143ce486e9b6457472928e2249c)
 
 #What is Paw?
 
