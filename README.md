@@ -12,7 +12,7 @@ Thanks a lot for enjoying Paw and for helping!
 
 [Micha Mazaheri](http://micha.mazaheri.me)
 
-![Paw HTTP Client](http://a1438.phobos.apple.com/us/r1000/104/Purple/v4/f3/e5/3a/f3e53a39-a92e-a976-43fa-c4d2e96da48c/mzl.lwllkvvs.png?downloadKey=1366793232_e36a3143ce486e9b6457472928e2249c)
+![Paw HTTP Client](https://dog1xqd4luume.cloudfront.net/img/paw/paw-mbp-b53074a0.png)
 
 #What is Paw?
 
