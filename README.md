@@ -3,6 +3,7 @@
 **This repository is going to be closed.**
 
 **Paw is now part of [RapidAPI](https://rapidapi.com/).**
+![RapidAPI-Paw](./2021-02-Paw-Banner-RapidAPI-Paw.webp)
 
 If you're using Paw and have found some bugs, please feel free to email at [support@paw.cloud](mailto:support@paw.cloud), or [create an Issue here](https://paw.cloud/support?app=com.luckymarmot.Paw). We'll always appreciate your help. Also, please never hesitate to create an issue for a tiny bug, a UI problem, a keyboard shortcut that you'd love to have, or a feature you'd like to see in the next release.
 
@@ -17,6 +18,8 @@ Thanks a lot for enjoying Paw and for helping!
 # What is Paw?
 
 Paw is an HTTP Client for Mac, Linux and Windows.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_x9wa3YN_Pk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Easily craft your HTTP requests, try them, archive them. Setup HTTP Headers, URL parameters, form-encoded POST key-values or text. Get easy-to-read responses with well formatted headers and body. 
 
