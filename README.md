@@ -19,7 +19,7 @@ Thanks a lot for enjoying Paw and for helping!
 
 Paw is an HTTP Client for Mac, Linux and Windows.
 
-![isyoutube](https://www.youtube.com/embed/_x9wa3YN_Pk)
+![isyoutube](https://youtu.be/_x9wa3YN_Pk)
 
 Easily craft your HTTP requests, try them, archive them. Setup HTTP Headers, URL parameters, form-encoded POST key-values or text. Get easy-to-read responses with well formatted headers and body. 
 
