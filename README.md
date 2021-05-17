@@ -12,7 +12,7 @@ Thanks a lot for enjoying Paw and for helping!
 
 [Micha Mazaheri](http://micha.mazaheri.me)
 
-![Paw HTTP Client](https://cdn-static.paw.cloud/img/discover/landing/landing-header-1ac8944e97.png)
+![Paw HTTP Client](./paw.png)
 
 # What is Paw?
 
