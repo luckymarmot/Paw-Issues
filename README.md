@@ -2,7 +2,7 @@
 
 **This repository is going to be closed.**
 
-If you're using Paw and have found some bugs, please feel free to email at [support@paw.cloud](support@paw.cloud), or [create an Issue here](https://paw.cloud/support?app=com.luckymarmot.Paw). We'll always appreciate your help. Also, please never hesitate to create an issue for a tiny bug, a UI problem, a keyboard shortcut that you'd love to have, or a feature you'd like to see in the next release.
+If you're using Paw and have found some bugs, please feel free to email at [support@paw.cloud](mailto:support@paw.cloud), or [create an Issue here](https://paw.cloud/support?app=com.luckymarmot.Paw). We'll always appreciate your help. Also, please never hesitate to create an issue for a tiny bug, a UI problem, a keyboard shortcut that you'd love to have, or a feature you'd like to see in the next release.
 
 Every detail count!
 
@@ -33,6 +33,6 @@ and parses the parameters as a key-value table. Or enter parameters in the table
 
 * Keyboard Shortcuts: Don't waste time anymore with mouse, Paw is build with a few easy-to-learn shortcuts to save your time.
 
-#License
+# License
 
 Sorry for disappointing you, but Paw is not Open Source :( You can find it on the Mac App Store: [Paw HTTP Client](https://paw.cloud) ...
